@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/connected-access-hubs/static/css/main.d6bda096.css",
+    "main.js": "/connected-access-hubs/static/js/main.b3ef5192.js",
+    "static/js/488.4c1bd134.chunk.js": "/connected-access-hubs/static/js/488.4c1bd134.chunk.js",
+    "index.html": "/connected-access-hubs/index.html",
+    "main.d6bda096.css.map": "/connected-access-hubs/static/css/main.d6bda096.css.map",
+    "main.b3ef5192.js.map": "/connected-access-hubs/static/js/main.b3ef5192.js.map",
+    "488.4c1bd134.chunk.js.map": "/connected-access-hubs/static/js/488.4c1bd134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bda096.css",
+    "static/js/main.b3ef5192.js"
+  ]
+}
